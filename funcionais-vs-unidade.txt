@@ -1,0 +1,3 @@
+Duas outras diferenças entre testes funcionais e testes de unidade são:
+1.	Testes de unidade devem ser rápidos, pois serão executados muitas vezes. Já testes funcionais podem ser mais lentos, pois testam aspectos mais complexos do sistema e serão executados com menor frequência;
+2.	Testes de unidade devem ser determinísticos e robustos, seus resultados devem ser sempre os mesmos, independentemente de fatores externos. Já os testes funcionais podem ter seus resultados influenciados por condições externas e são mais frágeis.
